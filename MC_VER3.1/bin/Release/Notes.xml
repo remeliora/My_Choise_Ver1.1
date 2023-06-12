@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfNotesClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NotesClass>
+    <Note>Honor - топ, за свои деньги</Note>
+  </NotesClass>
+  <NotesClass>
+    <Note>Программистам привет, остальным соболезную</Note>
+  </NotesClass>
+</ArrayOfNotesClass>

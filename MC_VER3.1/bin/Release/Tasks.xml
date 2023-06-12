@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfTasksClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TasksClass>
+    <Task>Задача №1</Task>
+    <SubTask>Закрыть сессию</SubTask>
+  </TasksClass>
+  <TasksClass>
+    <Task>Задача №2</Task>
+    <SubTask>Защитить Курсовую работу</SubTask>
+  </TasksClass>
+  <TasksClass>
+    <Task>Задача для примера</Task>
+    <SubTask>Здесь могла быть ваша реклама</SubTask>
+  </TasksClass>
+</ArrayOfTasksClass>
